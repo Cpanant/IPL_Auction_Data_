@@ -16,4 +16,4 @@ Visualizing the important statistical findings.
 
 Making the best team of the 11 - based on the ICC WORLD CUP winning squad formaton and last year's squad formation of the winning team in the IPL. i.e. how many batters. bowlers and allrounders should be included in the team.
 
-link https://github.com/Cpanant/IPL_Auction_Data/blob/efd86b08a71fa83553d508aff3e7bc00bc569cbf/modules/IPLDAVD.ipynb
+Project Demo Link https://github.com/Cpanant/IPL_Auction_Data/blob/efd86b08a71fa83553d508aff3e7bc00bc569cbf/modules/IPLDAVD.ipynb
