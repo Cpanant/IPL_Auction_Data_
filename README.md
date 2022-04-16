@@ -63,4 +63,4 @@ Player Name	Team	Nationality
 Project Demo Link https://github.com/Cpanant/IPL_Auction_Data/blob/efd86b08a71fa83553d508aff3e7bc00bc569cbf/modules/IPLDAVD.ipynb
 
 I have collected the information with the secondary source information of the IPL
-link 
+link https://github.com/Cpanant/IPL_Auction_Data_/blob/89125bc39ca0d2f25ebd90ce1311a723ffd2d279/IPLData.csv
