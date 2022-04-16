@@ -61,3 +61,6 @@ Player Name	Team	Nationality
 10	Kagiso Rabada	Punjab	Overseas
 
 Project Demo Link https://github.com/Cpanant/IPL_Auction_Data/blob/efd86b08a71fa83553d508aff3e7bc00bc569cbf/modules/IPLDAVD.ipynb
+
+I have collected the information with the secondary source information of the IPL
+link 
