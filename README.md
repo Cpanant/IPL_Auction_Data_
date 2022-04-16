@@ -27,9 +27,38 @@ The Chennai Super King squad consist of 4 BAatters, 3 Allrounders, 3 Bowlers, an
 For our fianl analysis we will consider the ratio of players in the best 11 as follows:
 
 3 (Three) Batters
+
 3 (Three) Allrounders
+
 4 (Four) Bowlers with 2 Spin Options
+
 1 (One) Wicket-Keeper
+
+best playing 11 from our analysis
+
+Player Name	Team	Nationality
+
+0	KL Rahul	Lucknow	Indian
+
+1	David Warner	Delhi	Overseas
+
+2	Virat Kohli	Bangalore	Indian
+
+3	Andre Russell	Kolkata	Overseas
+
+4	Sunil Narine	Kolkata	Overseas
+
+5	Hardik Pandya	Gujarat	Indian
+
+6	MS Dhoni	Chennai	Indian
+
+7	Yuzvendra Chahal	Rajasthan	Indian
+
+8	Jasprit Bumrah	Mumbai	Indian
+
+9	Nathan Coulter-Nile	Rajasthan	Overseas
+
+10	Kagiso Rabada	Punjab	Overseas
 
 
 
